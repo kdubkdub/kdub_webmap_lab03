@@ -25,8 +25,8 @@ Data Sources:
     U.S. County Boundary Shapefile: Downloaded from the U.S. Census Bureau.
 
 Credit & Acknowledgment:
-The COVID-19 case/death data and population data used in this project were processed to suit the purpose of this lab. Credit goes to The New York Times for providing the COVID-19 data and the U.S. Census Bureau for the county boundary shapefile. Special thanks to [Instructor Name] for guidance and support throughout the project.
+The COVID-19 case/death data and population data used in this project were processed to suit the purpose of this lab. Credit goes to The New York Times for providing the COVID-19 data and the U.S. Census Bureau for the county boundary shapefile. 
 
-For more information and updates, please visit the GitHub repository: Link to Repository
+For more information and updates, please visit the GitHub repository:  https://github.com/kdubkdub/kdub_webmap_lab03
 
 Please feel free to reach out with any questions or feedback. Thank you for your interest in the US COVID-19 Mapping Project!
