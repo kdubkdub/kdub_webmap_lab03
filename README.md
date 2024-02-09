@@ -6,8 +6,8 @@ The US COVID-19 Mapping Project aims to visualize the spread of COVID-19 cases a
 
 Links to Maps:
 
-    Choropleth Map (map1.html): Link to Choropleth Map
-    Proportional Symbols Map (map2.html): Link to Proportional Symbols Map
+    Choropleth Map (map1.html): [Link to Choropleth Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map1.html)
+    Proportional Symbols Map (map2.html): [Link to Proportional Symbols Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map2.html)
 
 Screenshots:
 
