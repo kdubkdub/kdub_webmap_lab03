@@ -8,8 +8,6 @@ Choropleth Map (map1.html): [Link to Choropleth Map] (https://github.com/kdubkdu
 
 Proportional Symbols Map (map2.html): [Link to Proportional Symbols Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map2.html)
 
-Screenshots:
-
 Primary Functions:
 
     Choropleth Map: Utilizes GeoJSON data and Mapbox GL JS library to visualize COVID-19 rates per thousand residents at the county level. The map color-codes counties based on their respective rates, providing a visual representation of the severity of COVID-19 impact.
