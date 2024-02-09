@@ -4,10 +4,8 @@ Project Name: US COVID-19 Mapping Project
 Brief Introduction:
 The US COVID-19 Mapping Project aims to visualize the spread of COVID-19 cases and rates across counties in the United States during the year 2020. The project utilizes GIS techniques to create thematic maps, including a choropleth map showing COVID-19 rates and a proportional symbols map displaying COVID-19 cases. These maps provide insights into the geographical distribution of COVID-19 impact and help in understanding the disparities in infection rates across different regions.
 
-Links to Maps:
-
-    Choropleth Map (map1.html): [Link to Choropleth Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map1.html)
-    Proportional Symbols Map (map2.html): [Link to Proportional Symbols Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map2.html)
+Choropleth Map (map1.html): [Link to Choropleth Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map1.html)
+Proportional Symbols Map (map2.html): [Link to Proportional Symbols Map] (https://github.com/kdubkdub/kdub_webmap_lab03/blob/main/map2.html)
 
 Screenshots:
 
